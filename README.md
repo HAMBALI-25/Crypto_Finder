@@ -1,17 +1,4 @@
-- 👋 Hi, I’m @HAMBALI
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-HAMBALI-25/HAMBALI-25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
- ### HI. I'm HAMBALI  👩‍💻
+### HI. I'm HAMBALI  👩‍💻
 ⭐⭐⭐⭐⭐⭐
 
 <img src="borderseparator.gif"/>
@@ -65,3 +52,8 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.elastic.co" target="_blank" rel="noref
 
 <img src="borderseparator.gif"/>
+
+<!---
+HAMBALI-25/HAMBALI-25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
