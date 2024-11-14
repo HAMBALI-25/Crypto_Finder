@@ -1,23 +1,22 @@
 
-Hi, I’m HAMBALI 
+Hi, I’m HAMBALI
+
 ⭐⭐⭐⭐⭐⭐
 
-<img src="assets/borderseparator.gif">
+<img src="borderseparator.gif"/>
 
-  
-  <img src="./assets/pixel-neon (1).gif"/>
-  
+
+<img src="pixel-neon (1).gif"/>
+
+
+<img src="borderseparator.gif"/>
+
   
   <h2></h2>
   <h3> <strong> LANGUAGES, FRAMEWORKS, AND TOOLS </strong></h3>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,md,babel,nodejs,webpack,vite,html,css,sass,tailwind,materialui,js,ts,react,nextjs,redux,java,cpp,py,md,firebase,mongodb,mysql,regex,svg,atom,eclipse,vscode,postman,netlify,vercel,figma,ai,ps,pr" alt="skills logos" /> <br>
   <h2></h2>
   
-  </strong><img src="./assets/borderseparator.gif"/></h2>
-  <br>
-
-
-<img src="assets/pixel-neon (1).gif">
 
 <p align="left">Programming Languages:</p>
 <p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> </p>
@@ -33,8 +32,6 @@ Hi, I’m HAMBALI
 
 <p align="left">Databases :</p> 
 <p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.elastic.co" target="_blank" rel="noref
-
-
 
 <!---
 HAMBALI-25/HAMBALI-25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
